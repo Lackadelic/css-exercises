@@ -1,0 +1,18 @@
+.odd {
+    background-color: hsl(315, 70%, 50%);
+    font-family: Verdana, 'Dejavu Sans', sans-serif;
+}
+
+#tres {
+    font-size: 24px;
+}
+
+#uno {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#dos {
+    background-color: hsl(100, 75%, 50%);
+    font-size: 24px; font-weight: bold;
+}
